@@ -1,0 +1,12 @@
+Produto: CANETA | Quantidade: 10 | Valor Unitário: 2 | Total: 20
+Produto: CADERNO | Quantidade: 5 | Valor Unitário: 7 | Total: 35
+Resumo IA: As vendas mostram maior volume em produtos de papelaria.
+
+
+---
+
+## 📦 requirements.txt
+
+```text
+pandas
+openai   # ou outra API de IA generativa
