@@ -1,0 +1,13 @@
+etl_ia_pipeline/
+│
+├── README.md
+├── requirements.txt
+├── data/
+│   └── vendas.csv
+├── src/
+│   ├── extract.py
+│   ├── transform.py
+│   ├── load.py
+│   └── pipeline.py
+└── ai/
+    └── generative_summary.py
